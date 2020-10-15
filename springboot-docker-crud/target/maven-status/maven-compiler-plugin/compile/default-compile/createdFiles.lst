@@ -1,0 +1,5 @@
+com\app\api\repository\ProductRepository.class
+com\app\api\SpringbootDockerCrudApplication.class
+com\app\api\controller\ProductController.class
+com\app\api\entity\Product.class
+com\app\api\service\ProductService.class
